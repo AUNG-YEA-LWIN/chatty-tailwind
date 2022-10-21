@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chatty-tailwind/static/css/main.68094b4c.css",
+    "main.js": "/chatty-tailwind/static/js/main.74a2e502.js",
+    "static/media/laptop.jpg": "/chatty-tailwind/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/chatty-tailwind/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/chatty-tailwind/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/chatty-tailwind/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/chatty-tailwind/index.html",
+    "main.68094b4c.css.map": "/chatty-tailwind/static/css/main.68094b4c.css.map",
+    "main.74a2e502.js.map": "/chatty-tailwind/static/js/main.74a2e502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68094b4c.css",
+    "static/js/main.74a2e502.js"
+  ]
+}
